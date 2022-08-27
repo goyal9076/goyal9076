@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @goyal9076
-- 👀 I’m interested in RTL design and Verification and also working in an Audio domain.
-- 🌱 I’m currently learning System Verilog for design verification.
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in working as Audio Hardware Engineer.
+- 🌱 I’m currently working VVDN TECHNOLOGIES as an Embedded Hardware Engineer.
 - 📫 How to reach me my email-goyal9076@gmail.com
 
 <!---
